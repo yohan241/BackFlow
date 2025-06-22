@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - StuckPlunger
+  - shoot
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Background
+  - Main
+  - ForeGround
+  - UI
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2664158419
+    locked: 0
+  - name: 2
+    uniqueID: 415071815
+    locked: 0
+  - name: 3
+    uniqueID: 1922798223
+    locked: 0
+  - name: Main
+    uniqueID: 1111910927
+    locked: 0
+  m_RenderingLayers:
+  - Default
